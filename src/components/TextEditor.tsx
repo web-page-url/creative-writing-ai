@@ -1373,6 +1373,18 @@ Respond with only the JSON array, nothing else:`;
           </div>
         </div>
       </div>
+      
+      {/* Credit Footer */}
+      <div className={`mt-8 text-center py-4 border-t ${isDarkMode ? 'border-gray-700' : 'border-gray-200'}`}>
+        <p className={`text-sm flex items-center justify-center gap-1 ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+          Created with
+          <span className="text-red-500 animate-pulse text-base">❤️</span>
+          by
+          <span className={`font-semibold ${isDarkMode ? 'text-purple-400' : 'text-purple-600'}`}>
+            Anubhav
+          </span>
+        </p>
+      </div>
     </div>
   );
 };
