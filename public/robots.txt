@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Important pages
+Allow: /api/
+Allow: /anubhav-creative-ai.jpeg
+Allow: /og-image.jpg
+Allow: /twitter-card.jpg
+Allow: /favicon-*.png
+Allow: /android-chrome-*.png
+Allow: /apple-touch-icon.png
+
+# Sitemaps
+Sitemap: https://creative-writing-ai.vercel.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Block unnecessary files
+Disallow: /_next/
+Disallow: /api/auth/
+Disallow: /*.json$
+Disallow: /*?*utm_*
+Disallow: /*?*fbclid*
+Disallow: /*?*gclid*

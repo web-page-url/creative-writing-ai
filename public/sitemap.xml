@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml" 
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://creative-writing-ai.vercel.app/</loc>
+    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://creative-writing-ai.vercel.app/anubhav-creative-ai.jpeg</image:loc>
+      <image:title>Creative Writing AI Assistant - Anubhav Chaudhary</image:title>
+      <image:caption>AI-Powered Writing Tool for Grammar, Spelling, and Style Enhancement by Anubhav Chaudhary</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://creative-writing-ai.vercel.app/og-image.jpg</image:loc>
+      <image:title>Creative Writing AI Assistant - Open Graph Image</image:title>
+      <image:caption>Optimized social media image for Creative Writing AI Assistant</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://creative-writing-ai.vercel.app/twitter-card.jpg</image:loc>
+      <image:title>Creative Writing AI Assistant - Twitter Card</image:title>
+      <image:caption>Optimized Twitter card image for Creative Writing AI Assistant</image:caption>
+    </image:image>
+  </url>
+</urlset>
